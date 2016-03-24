@@ -4,14 +4,14 @@
         <description><![CDATA[demoemanom]]></description>
         <link>https://thegrid.ai/demoemanom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 22:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 22:38:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demoemanom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[1st post on paper]]></title>
             <description><![CDATA[<article><h1>1st post on paper</h1><p>First post about paper</p></article>]]></description>
             <link>https://thegrid.ai/demoemanom/1st-post-on-paper/index.html</link>
             <guid isPermaLink="false">ccf10579-a446-4ffe-8cac-d1237d4eb6b7</guid>
-            <pubDate>Thu, 24 Mar 2016 22:36:05 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 22:38:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
