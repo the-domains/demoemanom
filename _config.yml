@@ -1,6 +1,6 @@
 name: demoemanom
 favicon: null
-layout_spectrum: 0.84579
+layout_spectrum: 0
 typography_spectrum: 0.84879
 title: The demo site
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.3328719281125814
-  lightness: 0.7674477163236588
-  saturation: 0.049131199484691024
-  rhythmicContrast: 0.8094365496654063
+    - '#1c00ff'
+    - '#ffffff'
+    - '#ffdbff'
+    - '#a170cf'
+    - '#c79de7'
+  brandStrength: 0.125
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
