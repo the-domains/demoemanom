@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: First post about paper
-datePublished: '2016-03-24T23:27:17.244Z'
-dateModified: '2016-03-24T23:27:10.112Z'
+datePublished: '2016-03-25T03:37:41.778Z'
+dateModified: '2016-03-24T23:49:56.535Z'
 title: On paper
 author: []
 sourcePath: _posts/2016-03-24-1st-post-on-paper.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: 1st-post-on-paper/index.html
-_type: Article
+_type: Blurb
 
 ---
 First post about paper
