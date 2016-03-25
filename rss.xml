@@ -4,7 +4,7 @@
         <description><![CDATA[The demo site]]></description>
         <link>https://thegrid.ai/demoemanom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 03:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 03:38:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demoemanom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My foot]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/demoemanom/matiere/index.html</link>
             <guid isPermaLink="false">4a1bdeb9-f5cb-4dbc-8621-b523a828abcf</guid>
             <pubDate>Fri, 25 Mar 2016 03:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On paper]]></title>
-            <description><![CDATA[<article><h1>On paper</h1><p>First post about paper</p></article>]]></description>
-            <link>https://thegrid.ai/demoemanom/1st-post-on-paper/index.html</link>
-            <guid isPermaLink="false">ccf10579-a446-4ffe-8cac-d1237d4eb6b7</guid>
-            <pubDate>Thu, 24 Mar 2016 23:27:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
